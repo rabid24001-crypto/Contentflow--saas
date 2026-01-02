@@ -1,0 +1,16 @@
+{
+  "name": "idea-vortex",
+  "version": "1.0.0",
+  "description": "AI idea generator for social media",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "openai": "^4.0.0"
+  },
+  "keywords": ["ai", "content", "ideas"],
+  "author": "",
+  "license": "MIT"
+}
